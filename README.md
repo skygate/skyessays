@@ -2,7 +2,7 @@
 
 ***skyessays*** is a collection of code that has been made available in articles on [blog.skygate.io](https://blog.skygate.io)
 #### 1. [A must-read tutorial when you are starting your journey with Deep Learning](https://blog.skygate.io/a-must-read-tutorial-when-you-are-starting-your-journey-with-deep-learning-5fa4da071510)
-[Image recognition with MNIST dataset - code](https://github.com/skygate/skyessays/mnist_analysis)
+[Image recognition with MNIST dataset - code](https://github.com/skygate/skyessays/tree/master/mnist_analysis)
 
 ## Getting started
 
