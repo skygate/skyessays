@@ -4,6 +4,9 @@
 #### 1. [A must-read tutorial when you are starting your journey with Deep Learning](https://blog.skygate.io/a-must-read-tutorial-when-you-are-starting-your-journey-with-deep-learning-5fa4da071510)
 [Image recognition with MNIST dataset - code](https://github.com/skygate/skyessays/tree/master/mnist_analysis)
 
+#### 2. [How to detect a single tree from a drone imagery of a dense forest? Nothing is simpler than custom object detection using TensorFlow](https://blog.skygate.io/how-to-detect-a-single-tree-from-a-drone-imagery-of-a-dense-forest-de190f64cdb7)
+[Computer vision - tree detection - code](https://github.com/skygate/skyessays/tree/master/tree_detection)
+
 ## Getting started
 
 These instructions will get you a copy of the project up and running on your local machine to repeat steps or code analysis.
