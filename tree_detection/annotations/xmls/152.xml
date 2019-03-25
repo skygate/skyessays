@@ -1,0 +1,36 @@
+<annotation>
+    <folder>cut_imgs</folder>
+    <filename>152.png</filename>
+    <size>
+        <width>960</width>
+        <height>540</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fruit tree</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>1</ymin>
+            <xmax>729</xmax>
+            <ymax>538</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>fruit tree</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>508</xmin>
+            <ymin>248</ymin>
+            <xmax>960</xmax>
+            <ymax>540</ymax>
+        </bndbox>
+    </object>
+</annotation>
